@@ -1,0 +1,5 @@
+add $s6,$s5,$s3
+addi $t0,$s6,4
+or $s6,$s5,$s3
+andi $s6,$s5,5
+ori $s6,$s5,4
